@@ -13,7 +13,7 @@ Authors: 	Shuqin Ye, Zepeng Zhai and Ruifan Li
 ```
 #### Original Datasets:
 
-You can download the datasets from [https://github.com/xuuuluuu/SemEval-Triplet-data](https://github.com/nustm/acos)https://github.com/nustm/acos.
+You can download the datasets from [https://github.com/xuuuluuu/SemEval-Triplet-data](https://github.com/nustm/acos)
 
 #### Data Preprocess:
 
